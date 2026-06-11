@@ -1,0 +1,9 @@
+.env
+.pio/
+.vscode/
+build/
+*.bin
+*.elf
+*.hex
+*.map
+*.log
